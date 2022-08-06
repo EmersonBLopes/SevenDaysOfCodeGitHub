@@ -1,4 +1,4 @@
-# Desafios
+<h1 align="center"> Desafios</h1>
 
 - ## Dia 1
 
