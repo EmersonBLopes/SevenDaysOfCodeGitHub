@@ -4,7 +4,7 @@
 
     - [X] Criar manualmente repositório no GitHub
 
-    - [ ]  Alterar o readme do meu perfil no Github.
+    - [X]  Alterar o readme do meu perfil no Github.
 
 - ## Dia 2
 
