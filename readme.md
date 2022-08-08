@@ -24,8 +24,8 @@
 
 - ## Dia 5
 
-    - [X] Realizar um commit errado e posteriormente reverte-lo (Revertido utlizando o comando git reset).
+    - [X] Realizar um commit errado e posteriormente reverte-lo (Revertido utlizando o comando <code>git reset --hard</code>).
 
 - ## Dia 6
 
-    - [X] Forçar um conflito (solucionado com git pull ours da preferência para o branch atual)
+    - [X] Forçar um conflito (solucionado com <code>git pull -ours</code> da preferência para o branch atual)
