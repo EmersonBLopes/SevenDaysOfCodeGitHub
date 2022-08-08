@@ -26,3 +26,6 @@
 
     - [X] Realizar um commit errado e posteriormente reverte-lo (Revertido utlizando o comando git reset).
 
+- ## Dia 6
+
+    - [X] Forçar um conflito (solucionado com git pull ours da preferência para o branch atual)
