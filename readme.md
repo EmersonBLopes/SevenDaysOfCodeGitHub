@@ -29,3 +29,7 @@
 - ## Dia 6
 
     - [X] Forçar um conflito (solucionado com <code>git pull -ours</code> da preferência para o branch atual)
+
+- ## Dia 7
+    
+    - [X] Fazer deploy utilizando a ferramenta do GitHub Pages
